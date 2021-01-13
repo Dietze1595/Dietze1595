@@ -1,7 +1,6 @@
 ### Hey 👋
 
 <p align="center">
-  my name is Marcel Dietz 
 </p>
 <hr>
 </br>

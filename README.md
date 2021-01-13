@@ -7,9 +7,9 @@
 </br>
 
 <div align="center">
-<a href="https://github.com/Dietze_?tab=followers"><img src="https://img.shields.io/github/followers/Dietze_.svg?style=social&label=Follow&maxAge=z"></a>
-<a href="https://github.com/Dietze_"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/Dietze_"><img src="https://komarev.com/ghpvc/?username=Dietze_" alt="Dietze_"/></a>
+<a href="https://github.com/Dietze1595?tab=followers"><img src="https://img.shields.io/github/followers/Dietze1595.svg?style=social&label=Follow&maxAge=z"></a>
+<a href="https://github.com/Dietze1595"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/Dietze1595"><img src="https://komarev.com/ghpvc/?username=Dietze1595" alt="Dietze_"/></a>
 
 </div>
 

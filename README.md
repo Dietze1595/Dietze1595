@@ -1,9 +1,7 @@
 ### Hey 👋
 
-<p align="center">
-</p>
+<p align="center"></p>
 <hr>
-</br>
 
 <div align="center">
 <a href="https://github.com/Dietze1595?tab=followers"><img src="https://img.shields.io/github/followers/Dietze1595.svg?style=social&label=Follow&maxAge=z"></a>
@@ -11,8 +9,7 @@
 <a href="https://github.com/Dietze1595"><img src="https://komarev.com/ghpvc/?username=Dietze1595" alt="Dietze_"/></a>
 </div>
 
-
-</br>
+<hr>
 
 Here are some informations about me:
 

@@ -1,6 +1,11 @@
 ### Hey 👋
 
-<p align="center"></p>
+Here are some informations about me:
+
+- 🔭 I am currently working on my master thesis at the Karlsruhe University of Applied Sciences, in the field of automation technology.
+- 📫 How to reach me: <a href="https://steamcommunity.com/id/Dietze_">Steam</a>
+- ⚡ Fun fact: ...
+
 <hr>
 
 <div align="center">
@@ -10,9 +15,3 @@
 </div>
 
 <hr>
-
-Here are some informations about me:
-
-- 🔭 I am currently working on my master thesis at the Karlsruhe University of Applied Sciences, in the field of automation technology.
-- 📫 How to reach me: <a href="https://steamcommunity.com/id/Dietze_">Steam</a>
-- ⚡ Fun fact: ...
